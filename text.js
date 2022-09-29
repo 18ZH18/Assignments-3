@@ -1,0 +1,18 @@
+/*
+will print Hello World in the console 
+
+syntax error 
+
+missing first bracket will provide error 
+
+will print Hello World in the console  
+
+will both be comments 
+
+error 
+
+will log both into console 
+
+bothe will be comments 
+
+*/
